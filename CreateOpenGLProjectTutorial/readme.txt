@@ -1,4 +1,4 @@
-<b>How to create a new OpenGL project. (files for windows users only)</b>
+How to create a new OpenGL project. (files for windows users only)
 
 1. open visual studio and select create new empty c++ project.
 
