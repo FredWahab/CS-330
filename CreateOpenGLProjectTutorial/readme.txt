@@ -1,3 +1,5 @@
+<h3>How to create a new OpenGL project. (files for windows users only)</h3>
+
 1. open visual studio and select create new empty c++ project.
 
 2. create a main.cpp file and use this sample code and run debugger. (this is to initialize the files and folders)
