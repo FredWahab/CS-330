@@ -30,3 +30,6 @@ shell32.lib
 8. Add the glad.c file into the projec folder and include in project
 
 9. select build -> clear solution and then rebuild solution. all errors should clear and the project should sucessfully run. 
+
+for more information or to create your own files follow this guide
+https://www.youtube.com/watch?v=uO__ntYT-2Q
