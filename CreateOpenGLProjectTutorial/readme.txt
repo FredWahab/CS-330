@@ -8,7 +8,7 @@ How to create a new OpenGL project. (files for windows users only)
 
 <int main() {
     std::cout << "hello, OpenGL!" << std::cout;
-    return0;
+    return 0;
 }
 
 3. Copy the dependencies folder into the project folder. Refresh in visual studio. (properties -> show in explorer)Select the include and lib folder and select include in project. 
