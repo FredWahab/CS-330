@@ -2,7 +2,7 @@ How to create a new OpenGL project. (included files for windows users only)
 
 1. open visual studio and create new empty c++ project.
 
-2. create a main.cpp file, copy the sample code into the file debug. 
+2. create a main.cpp file, copy the sample code into the file and debug. 
 (this is to initialize the files and folders)
 
 #include <iostream>
@@ -12,11 +12,11 @@ How to create a new OpenGL project. (included files for windows users only)
     return 0;
 }
 
-3. Copy the included dependencies folder into your project folder. 
+3. drop the included dependencies folder into your project folder. 
 Refresh in visual studio. (properties -> show in explorer) 
-Select the include and lib folder and select include in project. 
+select the include and lib folder and include in project. 
 
-4. replace the previous sample code with the code from glfw to verify correct setup. 
+4. replace the previous sample code with the code from GLFW to verify correct setup. 
 https://www.glfw.org/documentation.html 
 (errors will appear at first)
 
@@ -31,8 +31,8 @@ user32.lib
 gdi32.lib
 shell32.lib
 
-8. Add the included glad.c file into your project folder.
-Select the glad.c file in visual studeio and include in project
+8. drop the included glad.c file into your project folder.
+select the glad.c file in visual studeio and include in project
 
 9. select build -> clear solution and then rebuild solution. 
 all errors should clear and the project should sucessfully run. 
