@@ -7,8 +7,8 @@ How to create a new OpenGL project. (included files for windows users only)
 
 #include <iostream>
 
-<int main() {
-    std::cout << "Hello, OpenGL!" << std::cout;
+int main() {
+    std::cout << "Hello, OpenGL!" << std::endl;
     return 0;
 }
 
